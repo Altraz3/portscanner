@@ -4,6 +4,7 @@ A simple multithreaded port scanner that quickly scans a target host and shows w
 
 ## Usage
 
+```bash
 python portscan.py -t <TARGET> -p <PORTS>
 Arguments
 -t, --target — target IP address
